@@ -15,11 +15,6 @@
     "branch":      "kitkat"
   },
   {
-   "repository":   "AICP/device_samsung_klte",
-    "target_path": "device/samsung/klte",
-    "branch":      "kitkat"
-  },
-  {
    "repository":   "AICP/device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
     "branch":      "kitkat"
